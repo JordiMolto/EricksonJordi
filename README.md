@@ -22,7 +22,7 @@ CPU Virtual: 1
 Memoria (GiB): 1
 Almacenamiento: Solo EBS
 Rendimiento de red: De bajo a moderado
-Procesador escalable Intel hasta 3,3GHz
+Procesador escalable Intel hasta 3,3GHz.
 
 **ACTIVIDAD 2**
 La extensión .pem es un archivo de certificado de correo mejorado de privacidad que se utiliza para transmitir correo electrónico de forma privada. Algunos archivos en formato PEM pueden utilizar una extensión de archivo diferente, como KEY para claves públicas o privadas.
