@@ -16,7 +16,7 @@ En este proyecto tendremos que realizar la implantación de una sitio web sencil
 
 # URL del servicio ftp accesible de forma anónima
 
-# Respuestas a las preguntas dela práctica
+# Respuestas a las preguntas de la práctica
 **ACTIVIDAD 1**
 CPU Virtual: 1
 Memoria (GiB): 1
