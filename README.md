@@ -14,6 +14,7 @@ Procesador escalable Intel hasta 3,3GHz.
 # Ip de la máquina y políticas de seguridad aplicadas (Puertos abiertos)
 
 # Servicios y versiones instaladas (apache 2.5,...)
+Versión de apache: Server version: Apache/2.4.41 (Ubuntu)
 
 # Usuarios creados y privilegios asignados
 
