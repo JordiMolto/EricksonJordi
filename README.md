@@ -17,7 +17,10 @@ Políticas:
 Puertos abiertos: 443
 
 # Servicios y versiones instaladas (apache 2.5,...)
-Versión de apache: Server version: Apache/2.4.41 (Ubuntu)
+Versión de Apache: Server version: Apache/2.4.41 (Ubuntu)
+Versión de FTP: 
+Versión de SSH: OpenSSH_8.2p1 Ubuntu-4ubuntu0.1, OpenSSL 1.1.1f  31 Mar 2020
+
 
 # Usuarios creados y privilegios asignados
 Usuario por defecto: Ubuntu. Usuario creado: web-deploy.
